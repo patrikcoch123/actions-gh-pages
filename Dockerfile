@@ -1,4 +1,4 @@
-FROM ubuntu:impish-20211015
+FROM ubuntu:impish
 
 SHELL ["/bin/bash", "-l", "-c"]
 
